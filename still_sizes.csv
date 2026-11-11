@@ -1,0 +1,45 @@
+Survey,image_filename,annotation_id,Area (m2),Area (cm2),size
+Goodwin Sands 2014,GWSD_CEND0114_GWSD031_STN_192_A1_013.jpg,"A - Plastic, Grey, High",0.017897707,178.98,C
+Goodwin Sands 2014,GWSD_CEND0114_GWSD035_STN_193_A1_012.jpg,"A7. Synthetic Rope, Brown, High",0.000933256,9.33,A
+Goodwin Sands 2014,GWSD_CEND0114_GWSD035_STN_193_A1_012.jpg,"E1. Clothing/Rags, Grey, High",0.006722978,67.23,B
+Goodwin Sands 2014,GWSD_CEND0114_GWSD002_STN_250_A1_015.JPG,"A7. Synthetic Rope, High, Green",0.006959888,69.6,B
+Offshore Overfalls,OOVR_CEND0119_OOVR007_STN_105_A1_019.JPG,"B8. Other, Red, High",0.004569659,45.7,B
+Offshore Overfalls,OOVR_CEND0119_OOVR020_STN_090_C1_026.JPG,"E1. Clothing/Rags, Red, High",0.014296644,142.97,C
+Offshore Overfalls,OOVR_CEND0119_OOVR020_STN_274_D2_007.JPG,"E1. Clothing/Rags, Blue, High",0.005636346,56.36,B
+Offshore Overfalls,OOVR_CEND0119_OOVR020_STN_274_D2_012.JPG,"A5. Fishing Line (Monofilament), Green, Low",0.000087,0.87,A
+Offshore Overfalls,OOVR_CEND0119_OOVR041_STN_044_A1_017.JPG,"A7. Synthetic Rope, Red, Low",0.000639553,6.4,A
+Offshore Overfalls,OOVR_CEND0119_OOVR041_STN_044_A1_019.JPG,"A7. Synthetic Rope, Brown, Low",0.001874877,18.75,A
+Offshore Overfalls,OOVR_CEND0119_OOVR052_STN_055_A1_012.JPG,"D3. Piece, White, High",0.002816233,28.16,B
+Offshore Overfalls,OOVR_CEND0119_OOVR052_STN_055_A1_017.JPG,"A14. Other, Brown, Low",0.006938177,69.38,B
+Offshore Overfalls,OOVR_CEND0119_OOVR052_STN_055_A1_022.JPG,"D3. Piece, Clear, Medium",0.00190147,19.01,A
+Offshore Overfalls,OOVR_CEND0119_OOVR043_STN_077_B1_005.JPG,"D4. Other, Red, High",0.002205368,22.05,A
+Offshore Overfalls,OOVR_CEND0119_OOVRGT12_STN_120_A1_014.JPG,"E1. Clothing/Rags, Brown, Decapoda, Asterozoa, High",0.038032181,380.32,C
+Offshore Overfalls,OOVR_CEND0119_OOVRGT13_STN_124_A1_004.JPG,"D4. Other, White, Medium",0.000287465,2.87,A
+Offshore Overfalls,OOVR_CEND0119_OOVRGT9_STN_121_A1_006.JPG,"B8. Other, Grey, Medium",0.000785046,7.85,A
+Swallow Sands 2014,SWSD_CEND0514_SWSD15_STN_183_A1_14.jpg,"F5. Other, Black, White, Unknown, Low",0.00043361,4.34,A
+Swallow Sands 2012,SS18_STN5300018.JPG,"D2. Bottle, Brown, High, Hydrozoa",NA,NA,NA
+Swallow Sands 2012,SS66_STN5100006.JPG,"F5. Other, Algae, Low, Orange",0.002185032,21.85,A
+Swallow Sands 2012,SS88_STN4560004.JPG,"F5. Other, Low, Hydrozoa, Orange",0.002829256,28.29,B
+Swallow Sands 2012,SS88_STN4560015.JPG,"F5. Other, Red, Anthozoa, Low, Encrusting sponge",0.003044608,30.45,B
+Swallow Sands 2012,SS88_STN4560012.JPG,"A8. Fishing Net, Low, Brown, Hydrozoa",0.012278426,122.78,C
+Swallow Sands 2012,SS99_STN432A0002.JPG,"F5. Other, Low, Brown, Hydrozoa",0.000384715,3.85,A
+Swallow Sands 2012,SS21_STN5510002.JPG,"F5. Other, Grey, Low",0.000352539,3.53,A
+Swallow Sands 2012,SS35_STN4270003.JPG,"B8. Other, Grey, High",0.011327254,113.27,C
+Swallow Sands 2012,SS35_STN4270003.JPG,"A2. Sheet, Low, Clear",0.04178805,417.88,D
+Swallow Sands 2012,SS21_STN5510011.JPG,"F5. Other, Low, Black, Hydrozoa",0.001268173,12.68,A
+Swallow Sands 2012,SS10_STN5860009.JPG,"F5. Other, Low, White",3.98E-05,0.4,A
+Swallow Sands 2012,SS31_STN5560002.JPG,"F5. Other, Low, Brown, Hydrozoa",0.0070378,70.38,B
+Swallow Sands 2012,SS91_STN4940018.JPG,"F1. Wood, Brown, Medium, Hydrozoa",0.002670688,26.71,B
+Swallow Sands 2016,SWSD099_STN_210_A1_29,"F2. Rope, Brown",0.00243644,24.36,A
+Swallow Sands 2016,SWSD099_STN_210_A1_30,"F2. Rope, Brown",0.001163842,11.64,A
+Swallow Sands 2016,SWSD099_STN_210_A1_30,"F2. Rope, Brown",0.0015017,15.02,A
+Swallow Sands 2016,SWSD099_STN_210_A1_30,"F2. Rope, Brown",0.000716052,7.16,A
+Swallow Sands 2016,SWSD283_STN_378_A1_05,"D4. Other, White",0.015094009,150.94,C
+North Norfolk 2013,NNSB_CEND2213_A67_STN_124_A1_045.JPG,"F5. Other, Low, Orange",0.001696083,16.96,A
+North Norfolk 2013,NNSB_CEND2213_E24_STN_391_A1_011.JPG,"F2. Rope, Brown, High",0.000939196,9.39,A
+North Norfolk 2013,NNSB_CEND2213_A63_STN_057_A1_040.JPG,"F5. Other, Low, White",0.000644545,6.45,A
+North Norfolk 2013,NNSB_CEND2213_E28_STN_322_A1_012.JPG,"A14. Other, Orange, Medium",0.001247415,12.47,A
+North Norfolk 2013,NNSB_CEND2213_C16_STN_104_A1_004.JPG,"E3. Other, Low, Brown",0.00208337,20.83,A
+North Norfolk 2013,NNSB_CEND2213_C08_STN_085_A1_008.JPG,"F5. Other, Grey, Medium",0.001793057,17.93,A
+North Norfolk 2013,NNSB_CEND2213_A60_STN_056_A1_033.JPG,"F2. Rope, Brown, High, Hydrozoa",0.003680174,36.8,B
+North Norfolk 2013,NNSB_CEND2213_A67_STN_124_A1_051.JPG,"F1. Wood, High, Brown",0.003649476,36.49,B
