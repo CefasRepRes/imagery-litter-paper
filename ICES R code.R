@@ -1,4 +1,3 @@
-setwd('C:\\Users\\jtb00\\OneDrive - CEFAS\\JTB00\\Fish Stuff\\Consultancy 2025\\JNCC litter\\Analysis\\Code for ICES paper')
 
 ## Functions used in the analysis
 source("functions.R")
@@ -899,9 +898,6 @@ for (j in 1:nsims) {
 bigger = sum(abs(sim.diff >= obs.diff))
 pvalue = (bigger + 1)/(nsims + 1)
 pvalue                                   # 0.32
-
-## THIS RESULT IS DIFFERENT TO BEFORE BECAUSE WE ARE USING FEWER
-## TRAWLS. NEED TO CHANGE THE PAPER TEXT TO REFLECT THIS.
 
 ####################################################################
 ## AUV stills analysis for Celtic Deep
